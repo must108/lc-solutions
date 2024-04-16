@@ -23,3 +23,4 @@ class Solution:
                 stk.append(k)
 
         return max_area
+    𝓱𝓮𝓵𝓵𝓸 𝓫𝓻𝓸
