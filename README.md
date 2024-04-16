@@ -1,3 +1,3 @@
 # leetcode solutions
 
-collection of leetcode solutions, mostly in python, some in c++.
+collection of leetcode solutions, mostly in python/c++.
