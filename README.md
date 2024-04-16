@@ -1,3 +1,3 @@
 # LeetCode Solutions
 
-collection of leetcode solutions in c++ (best language for leetcode imo)
+collection of leetcode solutions, mostly in python, some in c++.
