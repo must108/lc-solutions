@@ -1,12 +1,12 @@
 class Solution:
     def minKBitFlips(self, nums: List[int], k: int) -> int:
-        q = []
+        q = deque()
         count = 0
         n = len(nums)
 
         for i in range(n):
             if q and q[0] + k <= i:
-                q.pop(0)
+                q.popleft()
 
             if (nums[i] + len(q)) % 2 == 0:
                 if i + k > n:
